@@ -1,6 +1,10 @@
 # node-red-sparkplug
 
-Graph Sparkplug telemetry
+## Overview
+
+Graph Sparkplug telemetry in NODE-RED
+
+## Installation / Requirements
 
 Requires the 
 
@@ -11,5 +15,7 @@ and the
 https://www.npmjs.com/package/node-red-contrib-protocolbuffersnode
 
 packages.
+
+## Usage
 
 See details at http://gambitcomm.blogspot.com/2018/09/node-red-and-1000-simulated-sparkplug-b.html
